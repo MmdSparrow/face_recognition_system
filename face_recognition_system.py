@@ -76,7 +76,7 @@ class FaceRecognitionSystem:
             plt.axis("off")
 
         plt.tight_layout()
-        plt.show()
+        plt.savefig('results/result.png')
 
         if most_similar_image_path is None:
             raise ValueError("No faces detected in the candidate images.")
