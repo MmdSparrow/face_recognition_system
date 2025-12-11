@@ -22,7 +22,7 @@ The system follows a standard face recognition workflow:
 
 ### 🔹 FaceNet
 
-* Converts each face into a **128 / 512-dimensional embedding**
+* Converts each face into a **128-dimensional embedding**
 * Embeddings of the same person are close in feature space
 * Enables face verification and identification
 
