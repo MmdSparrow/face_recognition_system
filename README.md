@@ -27,5 +27,5 @@ The system follows a standard face recognition workflow:
 * Enables face verification and identification
 
 ## Result
-<img src="./most_similar.png" alt="most similar face to target" width="300">
+<img src="./most-similar.png" alt="most similar face to target" width="300">
 <img src="./scores.png" alt="face recognition result scores" width="600">
